@@ -1,2 +1,2 @@
 # TravelWebsite
-Created with CodeSandbox
+Created to learn and practice web concepts
